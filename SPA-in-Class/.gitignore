@@ -10,3 +10,5 @@
 
 # App generated
 .vscode
+
+*.md
