@@ -1,0 +1,18 @@
+Single Page Apps (SPAs) are web applications that consist of just a single page. 
+Instead of reloading every time a user interacts with the site 
+(communicating with the server and taking up more bandwidth), 
+this version of a web app processes all of the interactions immediately 
+without reloading the page. Many major web apps today are Single Page, 
+including Twitter, Facebook, and Gmail.
+
+These differ from a multi-page app (MPA), which consists of several pages 
+and always needs to reload when users interact with it. SPAs are easier 
+to debug, faster, a smoother experience for users, and simple to transition 
+into a mobile app with the same backend code. However, MPA\'92s have better SEO 
+(search engine optimization), although there has been progress on this front 
+with SPAs more recently. SPAs are also much less complex to develop than MPAs. 
+
+Ultimately, websites that are content-heavy and need many different categories/pages 
+may be better suited for MPAs, while SPAs work well for all other sites. 
+However there is now also an option for a Hybrid site - which is really a 
+Single Page App with an option for multiple pages built in.

@@ -1,0 +1,15 @@
+Separation of Concerns
+
+Separation of concerns in regards to HTML, CSS, and Javascript refers 
+to keeping code modular - making sure that changes to an application 
+won’t accidentally break another unrelated part of the website. 
+The term has been around for over 40 years, and refers to the 
+idea that programs should have separate sections. 
+
+Separating “concerns” in front-end between languages can improve 
+the quality of and ability to maintain a project. For instance, 
+using SASS elements can ensure that HTML and CSS stay in their separate lanes. 
+
+With this approach, HTML, CSS, and JavaScript do not overlap in their 
+responsibilities, and so applications because a lot more flexible 
+and easier to maintain.

@@ -1,0 +1,29 @@
+S05 Essay: Difference between Front End, Back End, Designer
+
+Web Designers are responsible for designing the layout and look of a website.
+A Web Designer asseses a client's needs and plans out a site that will best
+serve their needs/their clients', depending on who the audience is. Web Designers
+often have graphic design experience and have an eye for aestheics. More
+recently, UX design has also become popular in this field and is focused on 
+ensuring that customers have the best experiences possible with a website.
+A lot of research and iterative design that starts with basic wireframes and 
+progresses to final 'high fidelity' mockups is involved.
+
+Front End Developers primarily handle the visual aspects of a website that 
+visitors see and experience. This is often referred to as the "client-side" 
+part of programming. Front end development features primarily the languages HTML, 
+CSS, and Javascript. If only a front end developer works on a site, it is considered
+a static site (such as one for a restaurant).
+
+Back End Developers handle everything in the background that is hidden from
+visitors - how the sitre works, updates, and changes. They ensure that the data requested by the frontend application 
+are delivered. This is often refered to as the "server-side" part of programming.
+Backend web development can be much more varied than front end, and features 
+languages including Ruby, Python, PHP, Java, .Net and more. Back-end server-side work
+is made up of 4 main components: server, database, operating system, and software.
+If a backend developer works on a site, it is typically considered a dynamic site,
+which requires a database to work properly.
+
+If someone works well in both front end and back end development, they are called
+a full-stack developer.
+
