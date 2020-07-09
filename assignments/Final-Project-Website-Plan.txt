@@ -1,0 +1,17 @@
+Final Project Website Plan
+
+My final project website will be a blog-like site for articles- news, 
+think pieces, etc. 
+
+There will be a front page with articles listed out, and the option to
+select the articles of interest and view a full expanded version of
+each on separate pages. There will also be an About page. Finally, there 
+will be a navigation for visitors to choose between different sections of 
+the site.
+
+Each article will have a title with blocks of text and photos throughout.
+There may be a sidebar with background information about the article.
+
+I chose to make a journalistic website because I was always interested 
+in writing articles and interviewing people, so this can be a good push
+to actually do that with this website. 
