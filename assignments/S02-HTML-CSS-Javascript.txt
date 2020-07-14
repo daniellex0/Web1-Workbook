@@ -1,0 +1,20 @@
+HTML, CSS, and Javascript are three different coding languages that 
+are the building blocks of front-end web development. Essentially, 
+they are what make up a website experience for users.
+
+HTML (Hypertext Markup Language) is the content of a website, i.e. the text. 
+HTML is hierarchical and categorizes text by different categories/importance 
+(headline vs. body) using size, bolding, etc. It provides structure to a 
+sight and is its “skeleton.”
+
+CSS (Cascading Style Sheets) creates the visual experience of a website. 
+Without CSS, websites would be plain white pages with basic black text. 
+CSS adds aesthetic, stylistic components to HTML, including colors, 
+typefaces, layouts, and responsive features). CSS is used to improve 
+the “look and feel” of websites and better align with branding aesthetic.
+
+Javascript makes websites interactive, and is the most complex of the 
+three. Instead of only being able to look at a website, Javascript 
+allows users to actively engage with the site, whether that be through 
+forms, logging in, submitting information, commenting, creating an 
+account, etc. 

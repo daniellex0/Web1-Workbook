@@ -1,0 +1,19 @@
+File Relationships
+
+A site relative file path is a URL to a file in the same website. 
+For instance if a page is linking to another page in the same site,
+it can include a relative file path (which would look something
+like /directory-name/page-name.html without the domain name in the 
+beginning). This loads faster than absolute file paths.
+
+A document relative path is the best path to use for a link to a document that is in the same
+folder (and likely to stay together) in a website. The best way to link a document 
+relative path is to leave out any part of the path that is the same
+between the two documents, and only leave the part that is different.
+
+Absolute file paths start with the domain name, i.e.
+ http://www.domain-name/folder-name/page-name.html. These take longer
+to load than relative file paths. An absolute file path is useful
+for loading links on other websites, but is not adviseable for linksin 
+the same website because it requires more server requests and would
+use more bandwidth for users with mobile data plans.
