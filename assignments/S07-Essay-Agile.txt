@@ -1,0 +1,27 @@
+What it means for a company to be agile. What is the purpose of using Agile, and its pros and cons.
+
+When a company is Agile, this means that they use the Agile framework and practices 
+in software development based on the Agile Manifesto. The purpose of using Agile is for productivity 
+and efficiency. Agile promotes flexibility and responding to change and promotes individuals over processes.
+Agile was developed by developers, for developers, as a way to work together as efficiently
+and productively and possible. This involves many practices, including daily team 'standups'
+for everyone to discuss their progress and 'blocks.' The whole process is based around
+'sprints' that last about two weeks at a time, during which the team members are assigned certain 
+tasks and are expected to complete them by the end. Software such as Jira and Github help keep track
+of these assignments and push them up/icebox them, etc. as needed. There is also the ability to 
+track how productive a team and team members are per sprint to track progress trends and notice
+if any issues are in the way of productivity. Agile also includes rules and best practices that are
+supposed to keep teams productive and motivated.
+
+Pros of Agile include increased productivity and flexible systematization. Agile is intended to create the best 
+possible product regardless of money or contract. Developers work with stakeholders, designers, etc
+until the product is as it should be- not until the product is 'due.' According to Agile, the product
+is never truly finished because there are constantly iterative improvements that can be made.
+The most prominent process that existed before Agile, Waterfall, by comparison involved each step 
+of the development of a new product completely silo'd and completed in whole, so that an entire product 
+is developed and delivered without much input from stakeholders, designers, etc during the process- which 
+often concluded with unhappy clients and stakeholders because a final product may not have quite what
+they asked for or expected. Cons of Agile are that indeed the work is never really 'done,' which can be
+less satisfying than completing a contract and having the project completely finished and delivered.
+However, this is often a financial benefit because an Agile team can be employed or contracted on a 
+consistent basis rather than a temporary one.
