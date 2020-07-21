@@ -1,0 +1,35 @@
+S08 Essay: Additional Tech Roles
+
+Project Managers are in charge of the timeline, progress 
+and efficiency of projects. They essentially: manage projects. They mastermind
+projects, determine goals, make sure to keep projects on time and on budget while
+keeping team members motivated. They are also the go-between for management/
+stakeholders and project team members.
+
+Business Analysts work with IT and Management/Finance to analyze the profitability
+of a business and its products, developing financial models and gathering
+analytics to determine problems, opportunities, and solutions.
+
+The Scrum Master facilitates an Agile/Scrum team's process, making sure to 
+solve or remove any obstacles and create a productive, efficient environment
+for participants. They often ensure good relationships within the team, and
+protect them for unnecessary outside intrusions.
+
+UX Designers are tasked with designing user-friendly web interfaces. They
+use design thinking methods that prioritize the user's needs and design
+products that are as 'delightful' and intuitive as possible for users,
+thereby imporving business and profit. UX Designers use research to 
+inform their design solutions, and use an iterative process to continually
+improve and sharpen designs.
+
+Web Developers/Engineers write code to implement design concepts and bring them 
+to life online. They can be front end, back end, or fullstack, but all
+developers work together to make a site functional for users. They are often familiar
+with many different coding languages and software.
+
+Quality Assurance Testers or QA testers review and run various tests on new software/sites/apps 
+to ensure they work properly and are ready to launch to the public. They create reports
+and work with developers to correct any issues.
+
+DevOps Engineers work to improve productivity in a workplace by developing systems 
+and implementing them, working with various departments along the way.
