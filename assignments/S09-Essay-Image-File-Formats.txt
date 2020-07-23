@@ -1,0 +1,21 @@
+S09 Essay: Image File Formats
+
+A GIF or 'Graphics Interchange Format' is bitmap format and has a limited 
+color palette of 256 colors. This is not good for photographs, and is 
+most commonly used for simple memes.
+
+PNG or Portable Network Graphic was designed for internet usage, and is 
+the most commonly used image compression format online. This is a raster
+file that is not ideal for print, but was made to improve upon gifs.
+They can work well for photos online but can end up being large file sizes.
+Also importantly, they have transparency.
+
+JPG or Joint Photographic Experts Group is ideal for photographs. It's a 
+"lossy raster" file which means that it loses a little information each
+time it is saved. These work well with complex colors and can even work in 
+print these days. This is the only format of the 4 that cannot be animated.
+
+SVG or Scalable Vector Graphic is ideal for logos and symbols because it
+can be scaled up infinitely without losing quality, since it is based on
+vector calculations as opposed to pixels. These are often created on 
+programs like Adobe Illustrator. Their color can also be edited through CSS.
