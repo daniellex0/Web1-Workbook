@@ -1,0 +1,23 @@
+S10 Essay: Testing Environments
+
+Local: This testing environment is private- only one developer and the computer. 
+This is the easiest place to make any changes. This is the last step before
+a shared environement, so it's important to do as much testing and debugging
+as possible before merging to a shared environement so that nothing breaks.
+
+Dev: This is an environement shared with other developers. Often tests may fail 
+here even though they worked in the Local phase, because now they are integrated
+with the entire site and might break since they are no longer autonomous. Any
+developers can access your work now.
+
+QA: In this environment the QA team now runs manual tests on your work. This is
+a lot more controlled- while in the Dev environment any Developer can make changes
+at any moment, in the QA environment the QA team has control on any changes. This
+is a stage to catch not just tech issues but also user flow ones. This is made to
+simulate the real production environment as much as possible.
+
+Production: This is when the product goes 'live' and is launched to the public.
+It is important that all major mistakes are caught in previous testing 
+environments so that no major issues show up for the public when they are using the
+site. Sometimes there is phased production rollout, in which changes show up only
+for a portion of users first.
