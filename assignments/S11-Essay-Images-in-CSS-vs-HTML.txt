@@ -1,0 +1,16 @@
+S10 Essay: Function vs Form- Using Images in HTML vs CSS
+
+Including web images as part of HTML/Content is recommended when
+the image is important and has a purpose: it is part of the content 
+that is being presented to the viewer. When visitors print out the
+page, this image will be included in the print. Also these images
+include a description that is important to make the content accessible
+to people with disabilities using screen readers.
+
+Including web images as part of CSS/appearance is recommended when 
+the image is purely decorative and not meant to be part of the content
+that visitors are consuming. When visitors print a page, the background
+image will not show up in the print. These images are simply background
+images that are supposed to add an aesthetic addition to the page.
+These images can load faster on a page, and they do not stretch along
+with text as they would in html.
