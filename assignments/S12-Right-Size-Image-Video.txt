@@ -1,0 +1,26 @@
+S12 Essay: the right size for an image or video asset 
+
+The right size for an image or video asset on a site depends on the 
+context. There is not 'one size fits all' measurement, but instead
+many factors need to be considered. The size will be different 
+depending on whether the image or video needs to be full-screen or 
+small, high quality or basic,and what kind of website it will be on
+(social media, news, etc).
+
+However, some general guidelines include:
+
+Large or full-screen images should be no larger than 1MB, to ensure
+that the site can load quickly and performs well with SEO. Most
+other small web graphics can be 300KB or less.
+
+A full-screen background should be about 2000px wide.
+
+Resolution: While printers often require minimum 300dpi, most 
+computer monitors are 72 or 92 dpi, so anything higher than
+that is unecessary and will only slow down the page.
+
+Some common web image and video aspect ratios are 1:1 (square),
+3:2 (rooted in 35mm film and photography, common in print), 
+4:3 (common for tv and computer monitors), 16:9 ration (recently
+became the standard for flatscreens- common resolutions in this
+ratio are 1920x1080 and 1280 x 720)

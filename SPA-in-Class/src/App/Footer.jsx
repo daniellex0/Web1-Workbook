@@ -13,16 +13,16 @@ const Footer = () => {
         see
     */
 
-    const myVariable = 'I am Danielle';
-    const anotherOne = 123;
-    console.log(myVariable, anotherOne);
+    // const myVariable = 'I am Danielle';
+    // const anotherOne = 123;
+    // console.log(myVariable, anotherOne);
 
-    const timbuktu = () => {
-        // actions to execute
-        console.log('Executing timbuktu');
-    }
+    // const timbuktu = () => {
+    //     // actions to execute
+    //     console.log('Executing timbuktu');
+    // }
 
-    timbuktu();
+    // timbuktu();
 
 
     return (
