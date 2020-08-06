@@ -23,4 +23,5 @@ Some common web image and video aspect ratios are 1:1 (square),
 3:2 (rooted in 35mm film and photography, common in print), 
 4:3 (common for tv and computer monitors), 16:9 ration (recently
 became the standard for flatscreens- common resolutions in this
-ratio are 1920x1080 and 1280 x 720)
+ratio are 1920x1080 and 1280 x 720) Also 320x240, 400x600, 800x600, 
+1024x768.

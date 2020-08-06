@@ -1,0 +1,27 @@
+S13 Essay - IDs, Classes, and Tags
+
+ID - can be used to identify one element. Each element can only have one ID. 
+Information stored in an ID should be totally unique to the element it is 
+connected to. IDs can be important for browsers- if a url includes a # with
+a specific ID in the end, the page will jump to the section with that ID
+when it loads. This is also why ID has to only refer to one element- so 
+that the browser knows where in the page to jump to by finding that one ID.
+In CSS and id is often referred to with #.
+
+Class- can be used to identify multiple elements- so you can use the same class 
+on multiple elements. Information stores in a class can be used for many 
+different elements. Class can be useful for styling a specific group of elements
+in the same way in CSS. 
+
+Elements can have both a class and ID, and in fact this is a good practice.
+However if you don't need them, no need to use them. 
+
+Tag - A tag is a short description of an HTML object between < ... /> symbols.
+There are many common tags such as <img> for images, <h1> for a headline, <div>
+for a division or section, etc. In Css tags can often be referred to for styling
+but just referring to them, as opposed to referring to a specific Class or ID.
+
+Both in JS and CSS, specificity plays a role in the selection of HTML elements
+because of levels of hierarchy/priority. For instance if multiple conflicting
+rules in CSS apply to the same element, a universal selector like * will be
+given less priority than a very specific selector such as an ID. 

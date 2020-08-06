@@ -9,7 +9,7 @@ const Gallery = ({ services, currCategory}) => {
     const renderGallery = () => {
         return services.packages
         .filter((item, idx) => {
-            return (item.category === currCategory);
+            return (currCategory === 'All' || item.category === currCategory);
         })
         .map((item, idx) => {
             return <GalleryItem key={ idx } item={item}/>;
