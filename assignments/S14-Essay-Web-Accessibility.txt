@@ -1,0 +1,23 @@
+Web Accessibility
+
+Web Accessibility is important because it makes websites universally
+accessible to all people, regardless of any disabilities. One of the
+things that is great about the internet is that it can be much more accessible 
+for people with disabilities than the physical world, and so any barriers
+for them on the internet are problematic and should be remedied wherever
+possible. 
+
+Beyond the moral/inclusive reasoning, web accessibility is also very important from
+a business aspect. Web accessibility ensures that everyone can visit a
+website, thus ensuring more business/traffic. After all web accessibility
+is for not only people with disabilities such as auditory, cognitive,
+visual, and physical, but also people with chaging abilities due to aging,
+temporary or situational disabilities, or slow internet connection with
+limited or expensive bandwidth.
+
+Even more serious, there is legal liability if a website is not accessible
+as any other public soace, and websites/companies can be sued by disabled
+users per the ADA if they are not accesible enough. While there are no 
+enforceable ADA standards currently, companies can still be successfully sued
+and can end up spending a lot in legal fees or fines as a result. Companies such 
+as Netflix have been sued many times, and have had to make accommodations accordingly.
