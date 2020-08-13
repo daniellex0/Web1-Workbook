@@ -1,0 +1,24 @@
+S15 Essay: CSS Preprocessor
+
+A CSS Preprocessor is a tool that extends the functionality of classic 
+CSS by adding a wide variety of new options and syntaxt that us more
+similar to javascript and other programming languages in the scope
+of options it provides to the programmer with CSS. CSS Preprocessors
+add many additional useful features to CSS such as variables (which can
+be reused throughout a site and save a lot of time/headache),imports,
+mixins, extend (grabbing the CSS styling of one element to another),
+mathematical calculations, loops, and more.
+
+Examples are Sass, Less, and Stylus.
+
+In React, Styled components is a CSS in JS tool that solves the issues
+that sometimes arise between component-based React programming and
+CSS styling. While styling classically works for an entire site,
+the component-based approach of React breaks websites into pieces.
+Styled components allows the styling to apply only to specific
+components.
+
+
+Styled Components violate separation of concerns by combining CSS
+with Javascript, instead of keeping them separate as separation
+of concerns recommends.
