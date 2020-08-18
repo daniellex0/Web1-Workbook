@@ -1,0 +1,15 @@
+S16 Essay- Difference between Web Hosts, Domains, and FTP
+
+Web Hosts- Web hosts are where your a site owner's website 'physically' lives,
+and typically a monthly or annual fee is paid for this hosting service. their
+site's database and files get uploaded to the hosting server.
+
+Domains- A domain name is the URL visitors type in to visit someone's site. 
+Site owners purchase their domain through domain registrars such as 
+GoDaddy.
+
+FTP-FTP or File Transfer Protocol, and it is the language that computers
+and IP networks such as the internet use to transfer files to each other.
+FTP was the popular way to share files between computers long before HTTP
+came along. Using a hosted FTP server is a common solution for companies that are
+concerned about keeping their data safe
