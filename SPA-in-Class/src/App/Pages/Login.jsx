@@ -2,6 +2,9 @@ import React from 'react';
 import styled from 'styled-components';
 import Helmet from 'react-helmet';
 
+/* Components ---------------------------*/
+import LoginForm from '../Pages/Login/LoginForm.jsx';
+
 const Login = () => {
 
     return (
@@ -9,7 +12,11 @@ const Login = () => {
             <Helmet>
                 <title>Login :: SPA App</title>
             </Helmet>
-            Login 
+            <div className="nested-wrapper">
+                <div className="login">
+                    <LoginForm />
+                </div>
+            </div>
         </LoginStyled>
     );
 }
@@ -17,5 +24,16 @@ const Login = () => {
 export default Login;
 
 const LoginStyled = styled.div`
-    
+
+    .nested-wrapper {
+
+        .login {
+            width: 50%;
+        }
+
+        button {
+            padding: 10px;
+            margin: 10px 0px;
+        }
+    }
 `;

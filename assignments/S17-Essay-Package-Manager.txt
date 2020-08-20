@@ -1,0 +1,13 @@
+S17 Essay: Package Managers
+
+A Package Manager is a programming tool that helps to create project
+environments and easily download external dependencies in order to
+automate the process of downloading programs in a consistent manner.
+It keeps track of the software that is already on your computer, and
+allows you to easily download new software. They are essentially used
+to atuomate the process of installing/upgrading/removing programs.
+
+Package Managers play a role in software development because they allow
+software developers to download all of the necessary dependencies to 
+make a packaged program work on their computer/device, including in
+application-level package management.
